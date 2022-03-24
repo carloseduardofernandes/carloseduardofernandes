@@ -12,6 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardofernandes&layout=compact)](https://github.com/carloseduardofernandes/github-readme-stats)
 [![carloseduardofernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardofernandes)](https://github.com/carloseduardofernandes/github-readme-stats)
 
+![Snake animation](https://github.com/seu-usuário-aqui/carloseduardofernandes/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!---
 carloseduardofernandes/carloseduardofernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
