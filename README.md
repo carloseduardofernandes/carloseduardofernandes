@@ -6,17 +6,10 @@
 - 💞️ Procuro colaborar em linguagem C#, frontEnd como CSS e JavaScript.
 - 📫 Podem me procurar no meu perfil do linkedin para Networking: https://www.linkedin.com/in/carlos-eduardo-fernandes/
 
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carloseduardofernandes/carloseduardofernandes)](https://github.com/carloseduardofernandes/carloseduardofernandes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-fernandes/)](https://www.linkedin.com/in/carlos-eduardo-fernandes/)
-
-[![carloseduardofernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardofernandes)](https://github.com/carloseduardofernandes/github-readme-stats)
-
-## Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardofernandes&layout=compact)](https://github.com/carloseduardofernandes/github-readme-stats)
 
 ## Experiences 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
